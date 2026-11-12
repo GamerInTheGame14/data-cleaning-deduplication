@@ -1,0 +1,16 @@
+id,name,email,phone,city
+1,John Smith,JOHN@gmail.com,555-1234,New York
+2,john smith,john@gmail.com,5551234,new york
+3,Alice Brown,alice@gmail.com,555-5678,Chicago
+4,Bob Wilson,invalid-email,555-9999,Los Angeles
+5,Mary Johnson,mary@gmail.com,555-1111,Houston
+6,Mary  Johnson,MARY@gmail.com,5551111,houston
+7,David Lee,david@gmail.com,,Boston
+8,Emma Davis,emma@gmail.com,555-2222,Seattle
+9,Emma Davis,emma@gmail.com,555-2222,Seattle
+10,Michael Brown,michael@gmail.com,555-3333,Miami
+11,Sarah Miller, sarah@gmail.com ,555-4444,Dallas
+12,Chris Taylor,,555-5555,Denver
+13,James Anderson,james@gmail.com,555-6666,San Francisco
+14,James Andersen,james@gmail.com,5556666,san francisco
+15,Olivia Martin,olivia@gmail.com,555-7777,Atlanta
